@@ -1,44 +1,42 @@
-# Olá! Eu sou o Jean Carlos Bandurski 👋
+# Olá! Sou o Jean Carlos Bandurski 👋
 
-Desenvolvedor de Jogos & Desenvolvedor de Software, focado em experiências 3D com **Godot Engine 4**, **JavaScript / Node.js** e arquitetura de sistemas interativos.
+Estudante no **Instituto Federal do Paraná (IFPR)** com foco em **Desenvolvimento de Jogos e Software**. Tenho grande interesse na área de desenvolvimento web, backend, segurança de dados e criação de experiências 3D.
 
 [![Email](https://img.shields.io/badge/Email-jeanxe97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanxe97@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-JeanBandurski--Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeanBandurski-Dev)
+[![GitHub](https://img.shields.io/badge/GitHub-jeanxe97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeanxe97)
 
 ---
 
-### 👨‍💻 Sobre Mim
-- 🎯 Apaixonado por desenvolvimento de jogos 3D, programação de gameplay e mecânicas imersivas.
-- 🎮 Experiência prática criando movimentação de personagens, sistemas de diálogo, combate e integração de dados.
-- 💻 Atualmente desenvolvendo projetos em **Godot 4.x** (GDScript) integrados a backend **Node.js** e banco de dados **SQLite**.
-- 🌱 Em constante aprimoramento em boas práticas de software, estruturas de dados e game architecture.
+### 🎓 Sobre Mim
+- 🎓 **Educação:** Cursando no Instituto Federal do Paraná (IFPR).
+- 🎮 **Interesses:** Desenvolvimento de jogos (Godot 4), backend, bancos de dados e introdução à segurança de dados.
+- 💻 **Atualmente estudando:** Integração entre jogos na Godot 4 com backends em Node.js e banco SQLite.
+- 🌱 **Foco de aprendizado:** Estruturas de dados, lógica de programação, APIs REST e boas práticas de código.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias que utilizo nos estudos
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Game Dev & 3D** | Godot Engine 4 • GDScript • Three.js • WebGL • Blender |
-| **Linguagens** | GDScript • JavaScript (ES6+) • Python • PHP • HTML5 • CSS3 |
-| **Backend & Banco de Dados** | Node.js • Express • SQLite • REST APIs |
-| **Ferramentas & Controle de Versão** | Git • GitHub • VS Code |
+* **Jogos & 3D:** Godot Engine 4 (GDScript), Three.js, Blender
+* **Linguagens:** GDScript, JavaScript, Python, PHP, HTML5, CSS3
+* **Backend & Banco de Dados:** Node.js, Express, SQLite, APIs REST
+* **Ferramentas:** Git, GitHub, VS Code
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Projetos Acadêmicos e Pessoais
 
-#### 🎮 [3D Platformer & MathQuest (Godot 4 + Node.js)](https://github.com/JeanBandurski-Dev/3d-platformer)
-> Jogo 3D desenvolvido na **Godot Engine 4** com mecânicas de plataforma e aventura, sistema de login de alunos com validação de hardware, sistema dinâmico de diálogos de pré-missão e integração com backend em **Node.js/Express** e banco de dados **SQLite**.
+#### 🎮 [3D Platformer & MathQuest](https://github.com/jeanxe97/3d-platformer)
+Jogo 3D feito na **Godot Engine 4** com mecânicas de plataforma e aventura. Possui um sistema de login de alunos, validação, sistema de diálogos pré-missão e integração com backend em **Node.js/Express** e **SQLite**.
 
-#### ⚔️ [TitanQuest 3D Web RPG (v1 Prototype)](https://github.com/JeanBandurski-Dev/titanquest-3d-web)
-> Protótipo 3D inicial para navegador web. Desenvolvido com **JavaScript**, **WebGL/Three.js** e modelos 3D customizados, contando com sistema de jogador, inteligência de inimigos e movimentação em terreno 3D.
+#### ⚔️ [TitanQuest 3D Web RPG](https://github.com/jeanxe97/titanquest-3d-web)
+Protótipo 3D para navegador construído com **JavaScript** e **Three.js/WebGL**, com mecânicas simples de movimentação em terreno 3D e controle de inimigos.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanBandurski-Dev&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas de JeanBandurski-Dev" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBandurski-Dev&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Utilizadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanxe97&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanxe97&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
 </p>
