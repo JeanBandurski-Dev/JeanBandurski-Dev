@@ -1,36 +1,39 @@
 # Olá! Sou o Jean Carlos Bandurski 👋
 
-Estudante no **Instituto Federal do Paraná (IFPR)** com foco em **Desenvolvimento de Jogos e Software**. Tenho grande interesse na área de desenvolvimento web, backend, segurança de dados e criação de experiências 3D.
+Graduando em **Sistemas de Informação** pelo **Instituto Federal do Paraná (IFPR - Campus Ivaiporã)**. 
+
+Combino os fundamentos acadêmicos em **Engenharia de Software, Bancos de Dados e Redes** com estudos autônomos em **Desenvolvimento de Jogos (Godot 4)**, **Aplicações Web/Backend** e introdução à **Segurança de Dados**.
 
 [![Email](https://img.shields.io/badge/Email-jeanxe97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanxe97@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jeanxe97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeanxe97)
 
 ---
 
-### 🎓 Sobre Mim
-- 🎓 **Educação:** Cursando no Instituto Federal do Paraná (IFPR).
-- 🎮 **Interesses:** Desenvolvimento de jogos (Godot 4), backend, bancos de dados e introdução à segurança de dados.
-- 💻 **Atualmente estudando:** Integração entre jogos na Godot 4 com backends em Node.js e banco SQLite.
-- 🌱 **Foco de aprendizado:** Estruturas de dados, lógica de programação, APIs REST e boas práticas de código.
+### 🎓 Formação & Foco de Estudos
+
+- 🏫 **Graduação:** Bacharelado em Sistemas de Informação (IFPR - Ivaiporã).
+- 📚 **Acadêmico:** Foco em Algoritmos, Orientação a Objetos, Estruturas de Dados, Redes de Computadores e Bancos de Dados (SQL/SQLite).
+- 🎮 **Autodidata (Game Dev):** Desenvolvimento de jogos 3D com **Godot Engine 4** (GDScript), lógica de gameplay e integração com APIs.
+- 🔒 **Interesses:** Desenvolvimento Backend (Node.js/Express), Desenvolvimento Web e Segurança de Sistemas.
 
 ---
 
-### 🛠️ Tecnologias que utilizo nos estudos
+### 🛠️ Tecnologias & Ferramentas
 
-* **Jogos & 3D:** Godot Engine 4 (GDScript), Three.js, Blender
-* **Linguagens:** GDScript, JavaScript, Python, PHP, HTML5, CSS3
-* **Backend & Banco de Dados:** Node.js, Express, SQLite, APIs REST
-* **Ferramentas:** Git, GitHub, VS Code
+* **Linguagens & Web:** JavaScript, GDScript, Java (estudos acadêmicos/base), HTML5, CSS3
+* **Backend & Banco de Dados:** Node.js, Express, SQL, SQLite, NoSQL
+* **Game Dev & 3D:** Godot Engine 4, Blender (conceitos básicos), Three.js
+* **Fundamentos & Ferramentas:** Git, GitHub, VS Code, Antigravity, Firebase
 
 ---
 
-### 🚀 Projetos Acadêmicos e Pessoais
+### 🚀 Projetos
 
-#### 🎮 [3D Platformer & MathQuest](https://github.com/jeanxe97/3d-platformer)
-Jogo 3D feito na **Godot Engine 4** com mecânicas de plataforma e aventura. Possui um sistema de login de alunos, validação, sistema de diálogos pré-missão e integração com backend em **Node.js/Express** e **SQLite**.
+#### 🎮 [3D Platformer & MathQuest (Godot 4 + Node.js)](https://github.com/jeanxe97/3d-platformer)
+Projeto de jogo 3D feito na **Godot Engine 4** focado em mecânicas de plataforma e aventura. Conta com sistema de autenticação/login de alunos, validação, gerenciamento de diálogos e integração de dados com backend em **Node.js/Express** e **SQLite**.
 
-#### ⚔️ [TitanQuest 3D Web RPG](https://github.com/jeanxe97/titanquest-3d-web)
-Protótipo 3D para navegador construído com **JavaScript** e **Three.js/WebGL**, com mecânicas simples de movimentação em terreno 3D e controle de inimigos.
+#### 🧪 [TitanQuest 3D Web - Protótipo & Estudo de Performance](https://github.com/jeanxe97/titanquest-3d-web)
+Projeto experimental focado no estudo de renderização 3D diretamente no navegador utilizando **JavaScript** e **Three.js/WebGL**. *Criado para analisar limites de processamento gráfico na web, otimização de meshes e movimentação de câmera/personagem em tempo real.*
 
 ---
 
