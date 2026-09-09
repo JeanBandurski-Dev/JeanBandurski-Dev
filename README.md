@@ -30,25 +30,17 @@ Combino os fundamentos acadêmicos em **Engenharia de Software, Bancos de Dados 
 
 ### 🚀 Projetos
 
-#### 🎮 [3D Platformer & MathQuest (Godot 4 + Node.js)](https://github.com/jeanxe97/3d-platformer)
+#### 🎮 [3D Platformer & MathQuest (Godot 4 + Node.js)](https://github.com/JeanBandurski-Dev/3d-platformer)
 Projeto de jogo 3D feito na **Godot Engine 4** focado em mecânicas de plataforma e aventura. Conta com sistema de autenticação/login de alunos, validação, gerenciamento de diálogos e integração de dados com backend em **Node.js/Express** e **SQLite**.
 
-#### 🧪 [TitanQuest 3D Web - Protótipo & Estudo de Performance](https://github.com/jeanxe97/titanquest-3d-web)
+#### 🧪 [TitanQuest 3D Web - Protótipo & Estudo de Performance](https://github.com/JeanBandurski-Dev/titanquest-3d-web)
 Projeto experimental focado no estudo de renderização 3D diretamente no navegador utilizando **JavaScript** e **Three.js/WebGL**. *Criado para analisar limites de processamento gráfico na web, otimização de meshes e movimentação de câmera/personagem em tempo real.*
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanxe97&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanxe97&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
-</p>
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanxe97&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanxe97&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeanBandurski-Dev&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="160"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeanBandurski-Dev&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="160"/>
 </p>
